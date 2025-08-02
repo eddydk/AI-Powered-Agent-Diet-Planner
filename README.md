@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GCP Code Lab
 Build and Deploy an AI-Powered Agent Diet Planner with Streamlit, Gemini Pro, Vertex AI and BigQuery
 For more info: https://codelabs.developers.google.com/ai-diet-planner
@@ -13,3 +14,7 @@ For more info: https://codelabs.developers.google.com/ai-diet-planner
 
 # Final Result:
 <img width="960" height="516" alt="Snag_18801dcd" src="https://github.com/user-attachments/assets/0abe5c3b-71cd-427a-93e5-677e3874fabd" />
+=======
+# AI-Powered-Agent-Diet-Planner
+AI-Powered Agent Diet Planner with Streamlit, Gemini Pro, Vertex AI and BigQuery
+>>>>>>> d6ca415cbe7421daf1601597e7c76056310e5109
